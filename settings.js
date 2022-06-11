@@ -1,30 +1,28 @@
 /**
    * Made By Fandyyy 🕴️
-   * Subscribe FBOTZ YT
-   * Follow https://instagram.com/_nzrlafndi
-   * Follow https://github.com/FBOTZ-YT
+   * Subscribe 
 */
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6285609233482', '0']
-global.ownerName = 'Fandyyy X All Creator'
-global.packname = 'Ichigo Kurosaki'
+global.ownerNumber = ['5511914297086', '0']
+global.ownerName = 'Luan Pereira X All Creator'
+global.packname = 'Izuku Bot'
 global.author = 'Whatsapp Bot 2022'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi'
 
 //Message Nya Ubah Disini
 global.mess = {
-admin: 'You Are Not Admin!',
-botAdmin: 'Bot Not Admin!',
-botOwner: 'You Are Not My Owner!',
-group: 'Only Group!',
-private: 'Only Private Chat',
-wait: 'Loading...',
-done: 'Done!'
+admin: 'Voce nao e administrador!',
+botAdmin: 'Bot nao e administrador!',
+botOwner: 'Você não é meu dono!',
+group: 'Apenas grupo!',
+private: 'Apenas no privado',
+wait: 'Aguarde...',
+done: 'Pronto!'
 }
 
 //Sesuaikan
