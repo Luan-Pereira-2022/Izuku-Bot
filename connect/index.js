@@ -22,7 +22,7 @@ global.api = (name, path = '/', query = {}, apikeyqueryname) => (name in global.
 
 //Starting In Console
 async function startIchigo(){
-cfonts.say('ICHIGO',{
+cfonts.say('IZUKU',{
 font: 'block',
 gradient: ['red','magenta'],
 align: 'center'
