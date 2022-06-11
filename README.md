@@ -52,8 +52,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/NzrlAfndi/Ichigo-Kurosaki
-cd Ichigo-Kurosaki
+git clone https://github.com/Luan-Pereira-2022/Izuku-Bot
+cd Izuku-Bot
 npm install
 ```
 
@@ -66,6 +66,6 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner And More On [`settings.js`](https://github.com/NzrlAfndi/Ichigo-Kurosaki/blob/master/settings.js)
+Editing Number Owner And More On [`settings.js`] ([https://github.com/Luan-Pereira-2022/Izuku-Bot/blob/master/settings.js])
 
 
