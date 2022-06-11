@@ -1,7 +1,7 @@
 {
-  "name": "ichigo-kurosaki",
+  "name": "izuku-bot",
   "version": "1.0.0",
-  "description": "Nganu",
+  "description": "I love System",
   "main": "connect/index.js",
   "type": "commonjs",
   "scripts": {
@@ -16,7 +16,7 @@
     "botmd",
     "bot-md"
   ],
-  "author": "Fandyyy",
+  "author": "Luan",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
