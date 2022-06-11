@@ -27,7 +27,7 @@ font: 'block',
 gradient: ['red','magenta'],
 align: 'center'
 })
-cfonts.say('Whatsapp Bot By Fandyyy',{
+cfonts.say('Whatsapp Bot por Luan Perira',{
 font: 'console',
 gradient: ['red','magenta'],
 align: 'center'
@@ -71,10 +71,10 @@ ppuser = await ichi.profilePictureUrl(num, 'image')
 ppuser = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 }
 if (anu.action == 'add') {
-tekswell = `Welcome @${num.split('@')[0]} To ${metadata.subject} 👋`
+tekswell = `Bem vindo(a) @${num.split('@')[0]} A ${metadata.subject} 👋`
 ichi.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: tekswell })
 } else if (anu.action == 'remove') {
-teksbye = `Sayonaraa @${num.split("@")[0]} 👋`
+teksbye = `Adeus @${num.split("@")[0]} 👋`
 ichi.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: teksbye })
 }
 }
