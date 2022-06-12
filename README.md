@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/5bd80998f8262a0a5e64f.jpg" alt="Ichigo Kurosaki" width="500"/>
+<img src="https://telegra.ph/file/6204f8a9abaa4917d2701.jpg" alt="Izuku Bot" width="500"/>
 
 Base Bot WhatsApp Multi Device With [`Baileys Multi Device`](https://github.com/adiwajshing)
 
