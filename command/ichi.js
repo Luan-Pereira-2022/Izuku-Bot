@@ -801,7 +801,7 @@ if (budy.startsWith('$')) {
 
   }
   } catch (err) {
-  m.reply(util.format(err))
+ // m.reply(util.format(err))
   }
 }
 
