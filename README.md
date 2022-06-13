@@ -4,7 +4,7 @@
 Base Bot WhatsApp Multi Dispositivo Com [`Baileys Multi Device`](https://github.com/adiwajshing)
 
 ## Observação
-Esta base é gratuita para todos, não está à venda, a menos que você tenha adicionado um recurso raro a este script, você só pode vendê-lo
+Esta base é gratuita para todos, não está à venda, a menos que você tenha adicionado um recurso raro a este script, você só pode vendê-lo com a autorização de um dos desenvolvedores, caso este script esteja em mercados digitais contate-nos.
 
 ## Graças a
 * [`Adiwajshing`](https://github.com/adiwajshing)
