@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/6204f8a9abaa4917d2701.jpg" alt="Izuku Bot" width="500"/>
 
-Base Bot WhatsApp Multi Dispositivo Com [`Baileys Multi Device`](https://github.com/adiwajshing)
+Base Bot WhatsApp Multi Dispositivo Com [`Baileys Multi Device`](https://github.com/adiwajshing)  conecte-se com vários telefones.
 
 ## Observação
 Esta base é gratuita para todos, não está à venda, a menos que você tenha adicionado um recurso raro a este script, você só pode vendê-lo com a autorização de um dos desenvolvedores, caso este script esteja em mercados digitais contate-nos.
