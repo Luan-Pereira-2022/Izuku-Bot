@@ -125,6 +125,7 @@ ichi.ev.on('connection.update', async (update) => {
 	}
 })
 
+	
 ichi.decodeJid = (jid) => {
   if (!jid) return jid
   if (/:\d+@/gi.test(jid)) {
@@ -616,6 +617,10 @@ ichi.serializeM = (m) => smsg(ichi, m, store)
    }
 
    return ichi
+} catch (err) {
+console.log(err)
+startIchigo()
+}
 }
 
 startIchigo()
