@@ -10,7 +10,7 @@
   },
    "nodemonConfig": {
      "ext": "js,html,sh,py"
-  };
+  },
   "keywords": [
     "termux",
     "whatsapp",
