@@ -14,6 +14,8 @@ const cfonts = require('cfonts')
 const axios = require('axios')
 const FileType = require('file-type')
 const PhoneNumber = require('awesome-phonenumber')
+const lolcatjs = require('lolcatjs')
+const {Boom} = require("@hapi/boom")
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('../lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('../lib/myfunc')
 const { state, saveState } = useSingleFileAuthState(`./${global.sessionName}.json`)
@@ -22,6 +24,7 @@ global.api = (name, path = '/', query = {}, apikeyqueryname) => (name in global.
 
 //Starting In Console
 async function startIchigo(){
+	
 cfonts.say('IZUKU',{
 font: 'block',
 gradient: ['red','magenta'],
@@ -32,10 +35,12 @@ font: 'console',
 gradient: ['red','magenta'],
 align: 'center'
 })
+
+try{
 const ichi = makeWASocket({
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ["Ichigo Kurosaki", "Safari", "3.0"],
+browser: ["izuku Bot", "Safari", "3.0"],
 auth: state
 })
 
