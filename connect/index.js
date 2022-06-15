@@ -156,7 +156,7 @@ ichi.getName = (jid, withoutContact  = false) => {
   v = store.contacts[id] || {}
   if (!(v.name || v.subject)) v = ichi.groupMetadata(id) || {}
   resolve(v.name || v.subject || PhoneNumber('+' + id.replace('@s.whatsapp.net', '')).getNumber('international'))
-
+  }}
 	
 ichi.decodeJid = (jid) => {
   if (!jid) return jid
